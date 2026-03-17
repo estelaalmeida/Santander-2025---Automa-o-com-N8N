@@ -5,5 +5,5 @@
 
 Detalhes do bootcamp Capacite-se no uso do N8N, uma poderosa ferramenta de inteligência artificial utilizada para automação de fluxos de trabalho e integração entre serviços, e atualize suas práticas. Atividades: Cursos: Aulas em vídeo curtas e objetivas que apresentam um conteúdo por vez.  Mentorias, Desafio de Códigos:
 
+<img width="1183" height="744" alt="image" src="https://github.com/user-attachments/assets/c19129a8-98e2-4392-b13c-b7cc3b5f4d7c" />
 
-<img width="540" height="669" alt="image" src="https://github.com/user-attachments/assets/f7294a88-ae3e-45c5-b5e4-c5a8094d04fc" />
